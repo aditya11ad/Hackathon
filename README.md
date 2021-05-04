@@ -11,6 +11,7 @@ Now the company needs your help in building a model to predict whether the perso
 ***
 ### Sample Submission
 This file contains the exact submission format for the predictions. Please submit CSV file only.
+
 **| Variable | Definition |**
 
 | ID | Unique Identifier for a row |
